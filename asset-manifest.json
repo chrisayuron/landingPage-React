@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/veterinaria/static/css/main.97723dc5.css",
-    "main.js": "/veterinaria/static/js/main.675ff973.js",
-    "static/js/787.28525a86.chunk.js": "/veterinaria/static/js/787.28525a86.chunk.js",
-    "index.html": "/veterinaria/index.html",
-    "main.97723dc5.css.map": "/veterinaria/static/css/main.97723dc5.css.map",
-    "main.675ff973.js.map": "/veterinaria/static/js/main.675ff973.js.map",
-    "787.28525a86.chunk.js.map": "/veterinaria/static/js/787.28525a86.chunk.js.map"
+    "main.css": "/landingPage-React/static/css/main.97723dc5.css",
+    "main.js": "/landingPage-React/static/js/main.90110f95.js",
+    "static/js/787.28525a86.chunk.js": "/landingPage-React/static/js/787.28525a86.chunk.js",
+    "index.html": "/landingPage-React/index.html",
+    "main.97723dc5.css.map": "/landingPage-React/static/css/main.97723dc5.css.map",
+    "main.90110f95.js.map": "/landingPage-React/static/js/main.90110f95.js.map",
+    "787.28525a86.chunk.js.map": "/landingPage-React/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97723dc5.css",
-    "static/js/main.675ff973.js"
+    "static/js/main.90110f95.js"
   ]
 }
